@@ -71,7 +71,7 @@ List iterators
 
 ## Functions
 
-###Closures
+### Closures
 
 ```python
 def sort_priority(values, group):
